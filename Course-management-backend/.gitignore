@@ -1,0 +1,9 @@
+node_modules
+.env
+.DS_Store
+npm-debug.log
+logs
+.git
+uploads/*
+!uploads/default-avatar.png
+!uploads/profile.jpg
